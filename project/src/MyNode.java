@@ -3,7 +3,9 @@ package tree;
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  * 
- * This is my first change :P
+ * mohahahahah
+ * 
+ Test av julia :D
  *
  * @author Torbjorn Ekman
  * @see MyTree
