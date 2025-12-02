@@ -2,7 +2,7 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- * 
+ * DETTA BLIR DEN LÅÅÅÅÅÅÅNGA ÄNDRINGEN TILL TRANSAKTIONEN HOPPAS DET FUNKAR
  * mohahahahah, nu ändrar jag igen :)))
  * 
  Test av julia :D nu testar jag lite 
