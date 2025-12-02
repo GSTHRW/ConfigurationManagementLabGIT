@@ -5,7 +5,7 @@ package tree;
  * 
  * mohahahahah, nu ändrar jag igen :)))
  * 
- Test av julia :D
+ Test av julia :D nu testar jag lite 
  *
  * @author Torbjorn Ekman
  * @see MyTree
